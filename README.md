@@ -15,19 +15,20 @@ São Paulo - SP 🌆
 
 ## Hobbies
 
-- Jogar videogames
-- Carros
-- Séries/Filmes
-- Caminhar
+- Jogar videogames 🎮
+- Carros 🚗
+- Séries/Filmes 🎥
+- Caminhar 🚶
 
 - Jogos que curto:
  
-  - Battlefield V
-  - Need For Speed
-  - Rocket League
-  - Cities: Skylines
-  - GTA V
-  - Forza Horizon/Motorsport 
+  - Battlefield V 🔫
+  - Need For Speed 🚙
+  - Rocket League ⚽
+  - Cities: Skylines 🏙️
+  - GTA V 🚔
+  - Forza Horizon/Motorsport 🏎️
+   
    e entre outros...
  
 ## Estudando atualmente
@@ -39,7 +40,7 @@ São Paulo - SP 🌆
 ## Contatos
 
 - Email: matheus.mmagalhaes05@gmail.com
-- Github: @medeirozz
+- Github: @medeirozz 
  
 ![863542](https://user-images.githubusercontent.com/117769362/200672275-486fdc94-be89-4994-98f9-f8bae067f5ea.png)
 
